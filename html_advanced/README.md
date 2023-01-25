@@ -6,7 +6,7 @@
 </head>
 <body>
 <ul>
-<li><a><img src="topinfo_bg.png" alt="topinfo"> image </a></li>
+<li><a><img src="topinfo_bg.png" alt=""> image </a></li>
 <ul>
-</body>
-<html>
+  </body>
+  </html>
