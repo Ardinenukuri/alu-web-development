@@ -1,12 +1,11 @@
-<!DOCTYPE HTML>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>html_ advanced</title>
-</head>
-<body>
-<ul>
-<li><a><img src="topinfo_bg.png" alt="topinfo"> image </a></li>
-<ul>
-  </body>
-  </html>
+Learning Objectives
+This is a simple project meant to help build the strong knowledge in the web development knowledge, and also it helps build a better background in the vanilla html, css and javascript
+
+General
+What is HTML
+How to create an HTML page from a wireframe
+What is a markup language
+What is the DOM
+What is an element / tag
+What is an attribute
+What the purpose of each HTML tag
