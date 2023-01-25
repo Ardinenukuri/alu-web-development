@@ -15,3 +15,5 @@ What is an attribute<br>
   What the purpose of each HTML tag, etc. </p>
   </body>
   </html
+
+  ![image](https://user-images.githubusercontent.com/109416235/214679301-c9ed331e-11e4-4f80-9465-30555f5ed9f5.png)
